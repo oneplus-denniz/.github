@@ -1,7 +1,7 @@
 # OnePlus Nord 2 5G
 > Codename: **oneplus-denniz**
 
-![phone-banner](data/phone-banner.png)
+![phone-banner](/data/phone-banner.png)
 
 ## specs
 
